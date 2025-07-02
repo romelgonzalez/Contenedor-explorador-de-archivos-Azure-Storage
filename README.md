@@ -4,7 +4,7 @@ Este proyecto es una sencilla aplicación web desarrollada en **Python con Flask
 
 La aplicación permite navegar por directorios, subir y descargar archivos, y crear nuevas carpetas, todo a través de una **interfaz web intuitiva**.
 
-![Imagen de la interfaz del explorador de archivos]
+![image](https://github.com/romelgonzalez/azure-app-container/blob/main/explorer-files-docker.png)
 
 ## Características
 
